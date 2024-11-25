@@ -1,0 +1,32 @@
+body{
+    padding:0;
+    margin:0;
+}
+.topbg{
+    background-color: black;
+    color: #ffff;
+    padding:0  0.8rem;
+}
+.subtop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #D1E3FF;
+}
+.navtext{
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    list-style: none;
+}
+.nav-link{
+    padding: 0 10px;
+}
+.navtext a{
+    text-decoration: none;
+}
